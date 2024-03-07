@@ -1,0 +1,11 @@
+//ask user for height. H
+
+// if height is not between 1 to 8, then reject and ask user for height again
+
+//else if height is between 1 to 8, build pyramid according to the hight
+
+//pyramid
+
+//type # H number of lines
+
+//each new line increase n by one
