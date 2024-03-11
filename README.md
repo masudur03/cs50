@@ -4,3 +4,4 @@
 as well as fundamental computer science concepts such as algorithms & data structures, abstraction, encapsulation, resource management, security, and the Flask web framework.
 
 These are the assigments I have completed everyweek. 
+
